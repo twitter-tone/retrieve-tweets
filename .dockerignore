@@ -1,4 +1,12 @@
-*
-!target/*-runner
-!target/*-runner.jar
-!target/lib/*
+**/node_modules/
+**/Dockerfile
+**/.dockerignore
+**/.gitignore
+**/.git
+**/README.md
+**/LICENSE
+**/.vscode
+**/.env
+consumer.js
+docker-compose.yaml
+**/test/
